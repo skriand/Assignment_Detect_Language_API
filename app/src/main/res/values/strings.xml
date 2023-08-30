@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment_Detect_Language_API</string>
+    <string name="history">History</string>
+    <string name="home">Detect Language</string>
+    <string name="close">Close</string>
+    <string name="send">Send</string>
+</resources>
